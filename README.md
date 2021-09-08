@@ -5,6 +5,7 @@ This thesis project was a Virtual Reality Diary that provided users with a creat
 18 people used the VR diary for a total of 91 days.
 
 >**results.txt** -> provides their experience results and quantative findings of questionnaires and usage data analysis.
+>
 >**thesis.pdf** -> Master thesis "**Creative Memory Arrangement in Virtual Reality: Building a VR diary**"
 
 - Engine: Unity3D / C#
