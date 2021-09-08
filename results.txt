@@ -1,0 +1,980 @@
+
+#######	SRIS VALUES	#######
+
+
+#0:
+
+	Before: 		Self Reflection: 41.93		Insight: 24.43
+	After: 			Self Reflection: 39.76		Insight: 23.47
+	Self Reflection Change: -5.2				Insight Change: -3.9
+#1:
+
+#2:
+
+	Before: 		Self Reflection: 31.44		Insight: 20.44
+	After: 			Self Reflection: 29.63		Insight: 22.73
+	Self Reflection Change: -5.8				Insight Change: 11.2
+#3:
+
+	Before: 		Self Reflection: 48.5		Insight: 12.94
+	After: 			Self Reflection: 42.42		Insight: 23.66
+	Self Reflection Change: -12.5				Insight Change: 82.8
+#4:
+
+	Before: 		Self Reflection: 27.74		Insight: 22.15
+	After: 			Self Reflection: 27.05		Insight: 22.43
+	Self Reflection Change: -2.5				Insight Change: 1.3
+#5:
+
+	Before: 		Self Reflection: 37.75		Insight: 25.35
+	After: 			Self Reflection: 34.09		Insight: 23.92
+	Self Reflection Change: -9.7				Insight Change: -5.6
+#6:
+
+	Before: 		Self Reflection: 30.19		Insight: 25.72
+	After: 			Self Reflection: 27.94		Insight: 25.69
+	Self Reflection Change: -7.5				Insight Change: -0.1
+#7:
+
+	Before: 		Self Reflection: 31.57		Insight: 24.65
+	After: 			Self Reflection: 34.32		Insight: 24.3
+	Self Reflection Change: 8.7				Insight Change: -1.4
+#8:
+
+	Before: 		Self Reflection: 46.58		Insight: 29.29
+	After: 			Self Reflection: 46.58		Insight: 29.29
+	Self Reflection Change: 0.0				Insight Change: 0.0
+#9:
+
+	Before: 		Self Reflection: 36.07		Insight: 24.99
+	After: 			Self Reflection: 32.69		Insight: 19.75
+	Self Reflection Change: -9.4				Insight Change: -21.0
+#10:
+
+	Before: 		Self Reflection: 48.38		Insight: 26.4
+	After: 			Self Reflection: 48.7		Insight: 22.53
+	Self Reflection Change: 0.7				Insight Change: -14.7
+#11:
+
+	Before: 		Self Reflection: 30.98		Insight: 23.63
+	After: 			Self Reflection: 31.6		Insight: 21.12
+	Self Reflection Change: 2.0				Insight Change: -10.6
+#12:
+
+	Before: 		Self Reflection: 27.48		Insight: 21.72
+	After: 			Self Reflection: 20.52		Insight: 25.74
+	Self Reflection Change: -25.3				Insight Change: 18.5
+#13:
+
+	Before: 		Self Reflection: 44.07		Insight: 18.2
+	After: 			Self Reflection: 43.13		Insight: 21.94
+	Self Reflection Change: -2.1				Insight Change: 20.5
+#14:
+
+	Before: 		Self Reflection: 28.73		Insight: 25.68
+	After: 			Self Reflection: 26.65		Insight: 27.57
+	Self Reflection Change: -7.2				Insight Change: 7.4
+#15:
+
+#16:
+
+	Before: 		Self Reflection: 28.55		Insight: 21.53
+	After: 			Self Reflection: 29.54		Insight: 22.09
+	Self Reflection Change: 3.5				Insight Change: 2.6
+#17:
+
+	Before: 		Self Reflection: 48.72		Insight: 23.89
+	After: 			Self Reflection: 41.47		Insight: 20.1
+	Self Reflection Change: -14.9				Insight Change: -15.9
+
+	Self Reflection Change: -5.7				Insight Change: 1.5
+Insight went from average of 19.611668 to 19.90722 (1.5)
+Reflection went from average of 31.704449 to 29.893887 (-5.7)
+
+#######	NUMBER OF MEMORIES PER DAY	#######
+
+#0
+2021-04-28 (0): 1
+2021-04-29 (1): 1
+2021-04-30 (2): 2
+2021-05-01 (3): 3
+2021-05-02 (4): 1
+2021-05-03 (5): 2
+2021-05-04 (6): 6
+2021-05-28 (7): 1
+#1
+2021-07-08 (0): 1
+2021-07-12 (1): 2
+2021-07-19 (2): 2
+#2
+2021-05-26 (0): 1
+2021-05-29 (1): 3
+2021-05-31 (2): 3
+#3
+2021-06-24 (0): 1
+2021-06-25 (1): 5
+2021-06-27 (2): 4
+2021-06-28 (3): 4
+#4
+2021-07-10 (0): 4
+2021-07-11 (1): 7
+2021-07-12 (2): 1
+2021-07-14 (3): 2
+2021-07-15 (4): 1
+2021-07-16 (5): 5
+2021-07-17 (6): 2
+#5
+2021-07-12 (0): 2
+2021-07-13 (1): 4
+2021-07-15 (2): 3
+2021-07-16 (3): 5
+2021-07-17 (4): 4
+2021-07-19 (5): 5
+#6
+2021-04-25 (0): 7
+2021-04-26 (1): 18
+2021-04-27 (2): 5
+2021-04-28 (3): 9
+2021-04-29 (4): 3
+2021-04-30 (5): 5
+#7
+2021-06-06 (0): 11
+2021-06-10 (1): 6
+2021-06-15 (2): 16
+#8
+2021-07-25 (0): 18
+2021-07-27 (1): 11
+2021-07-28 (2): 11
+2021-07-30 (3): 18
+2021-07-31 (4): 11
+#9
+2021-05-01 (0): 2
+2021-05-04 (1): 3
+2021-05-08 (2): 2
+2021-05-09 (3): 7
+#10
+2021-05-17 (0): 7
+2021-05-18 (1): 7
+2021-05-19 (2): 6
+2021-05-20 (3): 10
+2021-05-21 (4): 8
+2021-05-22 (5): 7
+2021-05-23 (6): 6
+#11
+2021-05-28 (0): 6
+2021-05-29 (1): 3
+2021-05-30 (2): 5
+#12
+2021-05-08 (0): 1
+2021-05-10 (1): 4
+2021-05-13 (2): 1
+2021-05-19 (3): 3
+#13
+2021-06-21 (0): 1
+2021-06-28 (1): 1
+2021-07-01 (2): 11
+2021-07-02 (3): 8
+#14
+2021-04-18 (0): 13
+2021-04-19 (1): 6
+2021-04-21 (2): 11
+2021-04-23 (3): 5
+2021-04-24 (4): 12
+#15
+2021-07-01 (0): 1
+2021-07-10 (1): 7
+2021-07-11 (2): 12
+2021-07-12 (3): 2
+2021-07-14 (4): 6
+#16
+2021-06-22 (0): 4
+2021-06-23 (1): 8
+#17
+2021-04-28 (0): 3
+2021-04-29 (1): 1
+2021-04-30 (2): 3
+2021-05-01 (3): 3
+2021-05-02 (4): 1
+2021-05-03 (5): 2
+2021-05-04 (6): 6
+Total:
+0: 84.0 memories by 18.0 people, avg = 4.666666666666667
+1: 97.0 memories by 18.0 people, avg = 5.388888888888889
+2: 98.0 memories by 17.0 people, avg = 5.764705882352941
+3: 79.0 memories by 13.0 people, avg = 6.076923076923077
+4: 47.0 memories by 9.0 people, avg = 5.222222222222222
+5: 26.0 memories by 6.0 people, avg = 4.333333333333333
+6: 20.0 memories by 4.0 people, avg = 5.0
+7: 1.0 memories by 1.0 people, avg = 1.0
+
+#######	OBJECT DESCRIPTION LENGTHS	#######
+
+#0
+	Out of 139 objects 8 were annotated (5.755396)
+	Out of 18 recordings 8 were annotated (44.444447)
+	Out of 121 3d objects 0 were annotated (0.0)
+#1
+	Out of 23 objects 4 were annotated (17.391304)
+	Out of 6 recordings 3 were annotated (50.0)
+	Out of 17 3d objects 1 were annotated (5.882353)
+#2
+	Out of 27 objects 5 were annotated (18.518518)
+	Out of 8 recordings 3 were annotated (37.5)
+	Out of 19 3d objects 2 were annotated (10.526316)
+#3
+	Out of 164 objects 1 were annotated (0.60975605)
+	Out of 15 recordings 1 were annotated (6.666667)
+	Out of 149 3d objects 0 were annotated (0.0)
+#4
+	Out of 24 objects 4 were annotated (16.666668)
+	Out of 23 recordings 4 were annotated (17.391304)
+	Out of 1 3d objects 0 were annotated (0.0)
+#5
+	Out of 26 objects 8 were annotated (30.769232)
+	Out of 24 recordings 8 were annotated (33.333336)
+	Out of 2 3d objects 0 were annotated (0.0)
+#6
+	Out of 48 objects 1 were annotated (2.0833335)
+	Out of 48 recordings 1 were annotated (2.0833335)
+	Out of 0 3d objects 0 were annotated (NaN)
+#7
+	Out of 35 objects 1 were annotated (2.857143)
+	Out of 34 recordings 1 were annotated (2.9411764)
+	Out of 1 3d objects 0 were annotated (0.0)
+#8
+	Out of 70 objects 40 were annotated (57.14286)
+	Out of 70 recordings 40 were annotated (57.14286)
+	Out of 0 3d objects 0 were annotated (NaN)
+#9
+	Out of 49 objects 1 were annotated (2.0408163)
+	Out of 15 recordings 1 were annotated (6.666667)
+	Out of 34 3d objects 0 were annotated (0.0)
+#10
+	Out of 182 objects 39 were annotated (21.428572)
+	Out of 52 recordings 39 were annotated (75.0)
+	Out of 130 3d objects 0 were annotated (0.0)
+#11
+	Out of 67 objects 3 were annotated (4.477612)
+	Out of 15 recordings 3 were annotated (20.0)
+	Out of 52 3d objects 0 were annotated (0.0)
+#12
+	Out of 389 objects 2 were annotated (0.5141388)
+	Out of 10 recordings 2 were annotated (20.0)
+	Out of 379 3d objects 0 were annotated (0.0)
+#13
+	Out of 279 objects 1 were annotated (0.35842294)
+	Out of 22 recordings 1 were annotated (4.5454545)
+	Out of 257 3d objects 0 were annotated (0.0)
+#14
+	Out of 48 objects 8 were annotated (16.666668)
+	Out of 48 recordings 8 were annotated (16.666668)
+	Out of 0 3d objects 0 were annotated (NaN)
+#15
+	Out of 42 objects 20 were annotated (47.61905)
+	Out of 29 recordings 20 were annotated (68.965515)
+	Out of 13 3d objects 0 were annotated (0.0)
+#16
+	Out of 51 objects 1 were annotated (1.9607844)
+	Out of 13 recordings 1 were annotated (7.692308)
+	Out of 38 3d objects 0 were annotated (0.0)
+#17
+	Out of 151 objects 9 were annotated (5.9602647)
+	Out of 20 recordings 9 were annotated (45.0)
+	Out of 131 3d objects 0 were annotated (0.0)
+Total:
+	Out of 1814 objects 156 were annotated (8.59978)
+	Out of 470 recordings 153 were annotated (32.553192)
+	Out of 1344 3d objects 3 were annotated (0.2232143)
+
+#######	GENDER DISTRIBUTION	#######
+
+female: 12 (66.666664%)
+male: 6 (33.333332%)
+
+#######	AGE DISTRIBUTION	#######
+
+#0:		22
+#1:		19
+#2:		54
+#3:		62
+#4:		32
+#5:		60
+#6:		25
+#7:		32
+#8:		33
+#9:		22
+#10:		21
+#11:		15
+#12:		34
+#13:		59
+#14:		26
+#15:		32
+#16:		62
+[15, 19, 21, 22, 22, 25, 26, 32, 32, 32, 33, 34, 54, 59, 60, 60, 62, 62]
+Average: 37.22222
+
+#######	NATIONALITY DISTRIBUTION	#######
+
+Netherlands: 2
+German: 16
+
+#######	DAYS USED	#######
+
+Total Days Used: 92
+
+#######	GOOGLE SERVICES USED	#######
+
+#0: no
+#1: null
+#2: no
+#3: no
+#4: no
+#5: no
+#6: no
+#7: no
+#8: yes
+#9: yes
+#10: no
+#11: no
+#12: no
+#13: no
+#14: no
+#15: no
+#16: no
+#17: no
+{null=1, no=15, yes=2}
+
+#######	USER DQR STATS	#######
+
+#0
+Mood:		4	2	3	3	4	2	2	
+Experience:	-1	-1	-1	4	4	4	4	
+
+#1
+Mood:		3	4	
+Experience:	3	4	
+
+#2
+Mood:		3	3	3	
+Experience:	3	4	3	
+
+#3
+Mood:		3	1	3	4	3	
+Experience:	3	3	2	4	3	
+
+#4
+Mood:		3	2	4	4	
+Experience:	2	3	2	2	
+
+#5
+Mood:		4	4	4	3	3	
+Experience:	3	2	2	2	2	
+
+#6
+Mood:		3	3	3	1	2	
+Experience:	1	2	2	2	2	
+
+#7
+Mood:		1	4	
+Experience:	1	4	
+
+#8
+Mood:		2	3	2	
+Experience:	-1	-1	-1	
+
+#9
+Mood:		3	3	4	
+Experience:	4	3	2	
+
+#10
+Mood:		4	2	3	2	2	2	
+Experience:	3	3	4	3	3	3	
+
+#11
+Mood:		2	3	3	
+Experience:	3	3	2	
+
+#12
+Mood:		4	2	1	0	4	
+Experience:	4	4	4	4	4	
+
+#13
+Mood:		2	3	3	3	
+Experience:	2	3	2	3	
+
+#14
+Mood:		2	3	-1	
+Experience:	3	-1	3	
+
+#15
+Mood:		3	2	3	3	
+Experience:	2	-1	3	2	
+
+#16
+Mood:		2	0	4	
+Experience:	4	4	-1	
+
+#17
+Mood:		4	2	3	3	4	2	2	
+Experience:	-1	-1	-1	4	4	4	4	
+
+
+Total Mood:
+2.89	2.56	3.07	2.6	3.14	2.0	2.0	
+
+Total Experience:
+2.73	3.23	2.58	3.0	3.14	3.67	4.0	
+#######	DIARY USAGE	#######
+
+#0:
+	Would use VR Diary: 		No
+	Using one at the moment:	No
+#1:
+	Would use VR Diary: 		Unsure
+	Using one at the moment:	UserToButNotAnymore
+#2:
+	Would use VR Diary: 		Probably
+	Using one at the moment:	UserToButNotAnymore
+#3:
+	Would use VR Diary: 		Probably Not
+	Using one at the moment:	UserToButNotAnymore
+#4:
+	Would use VR Diary: 		Unsure
+	Using one at the moment:	No
+#5:
+	Would use VR Diary: 		No
+	Using one at the moment:	UserToButNotAnymore
+#6:
+	Would use VR Diary: 		Probably Not
+	Using one at the moment:	Yes
+#7:
+	Would use VR Diary: 		No
+	Using one at the moment:	Yes
+#8:
+	Would use VR Diary: 		No
+	Using one at the moment:	No
+#9:
+	Would use VR Diary: 		Probably
+	Using one at the moment:	Yes
+#10:
+	Would use VR Diary: 		Probably Not
+	Using one at the moment:	UserToButNotAnymore
+#11:
+	Would use VR Diary: 		Yes
+	Using one at the moment:	No
+#12:
+	Would use VR Diary: 		Probably
+	Using one at the moment:	No
+#13:
+	Would use VR Diary: 		No
+	Using one at the moment:	No
+#14:
+	Would use VR Diary: 		No
+	Using one at the moment:	Yes
+#15:
+	Would use VR Diary: 		Probably Not
+	Using one at the moment:	UserToButNotAnymore
+#16:
+	Would use VR Diary: 		Unsure
+	Using one at the moment:	No
+Total: {No=6, Probably=3, Yes=1, Probably Not=4, Unsure=3}
+Avg:
+	No: 35.294117647058826%
+	Probably Not: 23.52941176470588%
+	Unsure: 17.647058823529413%
+	Probably: 17.647058823529413%
+	Yes: 5.88235294117647%
+
+#######	WHAT SUBJECTS LIKED AND DISLIKED	#######
+
+#0
++	 Reflection of a week or longer periods of time.
++	 when photos were taken it's easier to have a visual diary than putting everything into words.
+-	 I don't take many photos on a typical day, so I don't always have visual memories.
+-	 Bothersome with the iPhone.
+-	 On a daily basis the VR diary usage consumes too much time.
+
+#1
++	 Many creative design options.
++	 Rating option for single objects.
+-	 Connectivity issues with own phone (authors note: was provided with a prepared phone for that reason).
+
+#2
++	 When having trouble sleeping (due to menopause) I would enjoy preparing my room for the next day.
++	 Spending time with myself
++	 Try out unconventional things (building a tapestry out of photos).
++	 Realizing that, looking back, my days were nicer than I remembered.
++	 This could be a great tool for therapy. (author's note: The subject is a caregiver for the elderly)
+-	 Insufficient furniture options.
+-	 On one occasion there were connectivity issues.
+-	 It requires a lot of time.
+
+#3
++	 Multimedia use is nice
++	 Placing images in 3D is funny.
+-	 Object placement was sometimes difficult.
+-	 Could not place objects from the past / in past days.
+-	 Quality of visuals could be better.
+-	 High effort..
+
+#4
++	 Immersing yourself was interesting and exciting.
++	 Re-experiencing the past in an immersive way was nice.
++	 Interface was intuitive, albeit old-fashioned.
++	 It inspired me to keep a conventional journal (I already bought one).
+-	 Putting on the headset
+-	 Technology Barrier as compared to analogue media.
+-	 It was not possible to change past days.
+-	 Connectivity issues.
+
+#5
+-	 The time commitment was a burden.
+-	 Having to Transmit Photos the same day was a burden.
+-	 Connectivity issues.
+-	 Headset caused dizziness.
+-	 Needed constant help with the controls.
+
+#6
++	 Thematic grouping and visual documentation of what you're proud of.
++	 Assigning meanings through size and imply connections.
++	 More easy to review than long raw text.
+-	 Would rather use on a weekly than daily basis.
+-	 Ground level was incorrect.
+-	 Would prefer teleportation function to walking (dizziness).
+-	 The spider model triggered fear.
+-	 Mobile connectivity did not work (author's note: phone app bug, was later resolved).
+
+#7
++	 I like arranging my photos of the day
++	 Photos make a bigger impression than on a phone.
++	 The self-assessment at the end of each day helps reflecting.
+-	 The headset causes headaches and nausea.
+-	 Photos should align to the walls
+-	 The textfields could be better designed
+-	 Doors should be customizable
+-	 The voice transcription only translates some but not all of the text
+-	 I keep getting stuck when passing doorways
+
+#8
++	 Memories are more easily brought back with images.
++	 Liked the individual decorations.
+-	 App sometimes crashed.
+-	 Was a bit laborious to use (putting on the headset just to leave an extra note).
+
+#9
++	 I liked that I could freely place anything in the room.
++	 I liked that I could customize the room itself.
+-	 I did not like getting motionsick when I moved too much / through objects.
+-	 Sometimes horizontal videos got flipped on its side.
+
+#10
++	 Nice graphics and cool decoration options.
++	 Very clear and intuitive.
+-	 It would be better if, when the current session could extends past midnight, ability to edit wasn't lost.
+
+#11
++	 I like that it'w very realistic.
+
+#12
++	 Creative Freedom without cost and low effort. 
++	 It is less effortful being creative in this room than in reality. In a real room it would be a lot of work creating a statue for instance.
++	 I liked having a room all for myself that is by default tidy.
++	 No consequences and freedom of design. You can just leave the room as is everyday and start over the next day.
+-	 Plants started disappearing. (author's note: Bug)
+-	 A larger selection of 3D objects would be nice.
+
+#13
++	 It was a good incentive to review the past day.
+-	 Using a 3D Headset is laborious.
+
+#14
+-	 Too buggy.
+-	 Not user friendly enough.
+-	 Moving without actually walking is nauseating.
+-	 you have to actively take pictures, notes videos etc. throughout the day 
+to put something in the diary, instead of retro-actively thinking about the day.
+-	 I don't always have media ready.
+
+#15
+-	 Limited options to style one's room/day.
+
+#16
++	 Overall nice.
++	 Assigning meanings through size and imply connections.
++	 More easy to review than long raw text.
+-	 Would have liked more variations in furniture and decorations.
+-	 Was not aware that there is the option of customizing tapestry.
+-	 Felt dizzy sometimes.
+-	 The headset was pressing uncomfortably on the face.
+
+Total:
++	Reflection of a week or longer periods of time.
++	when photos were taken it's easier to have a visual diary than putting everything into words.
++	Many creative design options.
++	Rating option for single objects.
++	When having trouble sleeping (due to menopause) I would enjoy preparing my room for the next day.
++	Spending time with myself
++	Try out unconventional things (building a tapestry out of photos).
++	Realizing that, looking back, my days were nicer than I remembered.
++	This could be a great tool for therapy. (author's note: The subject is a caregiver for the elderly)
++	Multimedia use is nice
++	Placing images in 3D is funny.
++	Immersing yourself was interesting and exciting.
++	Re-experiencing the past in an immersive way was nice.
++	Interface was intuitive, albeit old-fashioned.
++	It inspired me to keep a conventional journal (I already bought one).
++	Thematic grouping and visual documentation of what you're proud of.
++	Assigning meanings through size and imply connections.
++	More easy to review than long raw text.
++	I like arranging my photos of the day
++	Photos make a bigger impression than on a phone.
++	The self-assessment at the end of each day helps reflecting.
++	Memories are more easily brought back with images.
++	Liked the individual decorations.
++	I liked that I could freely place anything in the room.
++	I liked that I could customize the room itself.
++	Nice graphics and cool decoration options.
++	Very clear and intuitive.
++	I like that it'w very realistic.
++	Creative Freedom without cost and low effort. 
++	It is less effortful being creative in this room than in reality. In a real room it would be a lot of work creating a statue for instance.
++	I liked having a room all for myself that is by default tidy.
++	No consequences and freedom of design. You can just leave the room as is everyday and start over the next day.
++	It was a good incentive to review the past day.
++	Overall nice.
++	Assigning meanings through size and imply connections.
++	More easy to review than long raw text.
+-	I don't take many photos on a typical day, so I don't always have visual memories.
+-	Bothersome with the iPhone.
+-	On a daily basis the VR diary usage consumes too much time.
+-	Connectivity issues with own phone (authors note: was provided with a prepared phone for that reason).
+-	Insufficient furniture options.
+-	On one occasion there were connectivity issues.
+-	It requires a lot of time.
+-	Object placement was sometimes difficult.
+-	Could not place objects from the past / in past days.
+-	Quality of visuals could be better.
+-	High effort..
+-	Putting on the headset
+-	Technology Barrier as compared to analogue media.
+-	It was not possible to change past days.
+-	Connectivity issues.
+-	The time commitment was a burden.
+-	Having to Transmit Photos the same day was a burden.
+-	Connectivity issues.
+-	Headset caused dizziness.
+-	Needed constant help with the controls.
+-	Would rather use on a weekly than daily basis.
+-	Ground level was incorrect.
+-	Would prefer teleportation function to walking (dizziness).
+-	The spider model triggered fear.
+-	Mobile connectivity did not work (author's note: phone app bug, was later resolved).
+-	The headset causes headaches and nausea.
+-	Photos should align to the walls
+-	The textfields could be better designed
+-	Doors should be customizable
+-	The voice transcription only translates some but not all of the text
+-	I keep getting stuck when passing doorways
+-	App sometimes crashed.
+-	Was a bit laborious to use (putting on the headset just to leave an extra note).
+-	I did not like getting motionsick when I moved too much / through objects.
+-	Sometimes horizontal videos got flipped on its side.
+-	It would be better if, when the current session could extends past midnight, ability to edit wasn't lost.
+-	Plants started disappearing. (author's note: Bug)
+-	A larger selection of 3D objects would be nice.
+-	Using a 3D Headset is laborious.
+-	Too buggy.
+-	Not user friendly enough.
+-	Moving without actually walking is nauseating.
+-	you have to actively take pictures, notes videos etc. throughout the day 
+to put something in the diary, instead of retro-actively thinking about the day.
+-	I don't always have media ready.
+-	Limited options to style one's room/day.
+-	Would have liked more variations in furniture and decorations.
+-	Was not aware that there is the option of customizing tapestry.
+-	Felt dizzy sometimes.
+-	The headset was pressing uncomfortably on the face.
+
+#######	MEDIA USAGE	#######
+
+
+
+#0:		 	{PLAINTEXT=4, PREFAB=121, IMAGE=11, VIDEO=2}
+		Avg of 8 days: PLAINTEXT: 0.5 PREFAB: 15.13 IMAGE: 1.38 VIDEO: 0.25
+
+#1:		 	{PLAINTEXT=1, IMAGE=2, PREFAB=17, VIDEO=2}
+		Avg of 3 days: PLAINTEXT: 0.33 IMAGE: 0.67 PREFAB: 5.67 VIDEO: 0.67
+
+#2:		 	{PLAINTEXT=1, PREFAB=19, IMAGE=4, VIDEO=2}
+		Avg of 3 days: PLAINTEXT: 0.33 PREFAB: 6.33 IMAGE: 1.33 VIDEO: 0.67
+
+#3:		 	{PREFAB=149, IMAGE=11, VIDEO=3}
+		Avg of 5 days: PREFAB: 29.8 IMAGE: 2.2 VIDEO: 0.6
+
+#4:		 	{RECORDING=1, PLAINTEXT=1, IMAGE=19, PREFAB=1, VIDEO=1}
+		Avg of 7 days: RECORDING: 0.14 PLAINTEXT: 0.14 IMAGE: 2.71 PREFAB: 0.14 VIDEO: 0.14
+
+#5:		 	{RECORDING=5, PLAINTEXT=1, IMAGE=17, PREFAB=2}
+		Avg of 7 days: RECORDING: 0.71 PLAINTEXT: 0.14 IMAGE: 2.43 PREFAB: 0.29
+
+#6:		 	{IMAGE=42, VIDEO=5}
+		Avg of 6 days: IMAGE: 7.0 VIDEO: 0.83
+
+#7:		 	{IMAGE=30, PREFAB=1, VIDEO=3}
+		Avg of 3 days: IMAGE: 10.0 PREFAB: 0.33 VIDEO: 1.0
+
+#8:		 	{PLAINTEXT=39, IMAGE=29, VIDEO=1}
+		Avg of 5 days: PLAINTEXT: 7.8 IMAGE: 5.8 VIDEO: 0.2
+
+#9:		 	{IMAGE=13, PREFAB=34, VIDEO=1}
+		Avg of 4 days: IMAGE: 3.25 PREFAB: 8.5 VIDEO: 0.25
+
+#10:		 	{PREFAB=130, IMAGE=44, VIDEO=6, AUDIO=1}
+		Avg of 7 days: PREFAB: 18.57 IMAGE: 6.29 VIDEO: 0.86 AUDIO: 0.14
+
+#11:		 	{RECORDING=1, PREFAB=52, IMAGE=11, VIDEO=2}
+		Avg of 3 days: RECORDING: 0.33 PREFAB: 17.33 IMAGE: 3.67 VIDEO: 0.67
+
+#12:		 	{IMAGE=8, PREFAB=379, VIDEO=1}
+		Avg of 5 days: IMAGE: 1.6 PREFAB: 75.8 VIDEO: 0.2
+
+#13:		 	{IMAGE=18, PREFAB=257, VIDEO=3}
+		Avg of 5 days: IMAGE: 3.6 PREFAB: 51.4 VIDEO: 0.6
+
+#14:		 	{RECORDING=7, IMAGE=39, VIDEO=1}
+		Avg of 5 days: RECORDING: 1.4 IMAGE: 7.8 VIDEO: 0.2
+
+#15:		 	{RECORDING=1, PLAINTEXT=2, IMAGE=22, PREFAB=13, VIDEO=3}
+		Avg of 5 days: RECORDING: 0.2 PLAINTEXT: 0.4 IMAGE: 4.4 PREFAB: 2.6 VIDEO: 0.6
+
+#16:		 	{RECORDING=2, IMAGE=10, PREFAB=38}
+		Avg of 4 days: RECORDING: 0.5 IMAGE: 2.5 PREFAB: 9.5
+
+#17:		 	{PLAINTEXT=4, IMAGE=14, PREFAB=131, VIDEO=1}
+		Avg of 7 days: PLAINTEXT: 0.57 IMAGE: 2.0 PREFAB: 18.71 VIDEO: 0.14
+Total:	{RECORDING=17, PLAINTEXT=53, PREFAB=1344, IMAGE=344, VIDEO=37, AUDIO=1}
+
+#######	USAGE TIMES	#######
+
+#0: min = 5	max = 10
+#1: min = 20	max = 30
+#2: min = 60	max = 90
+#3: min = 10	max = 15
+#4: min = 5	max = 10
+#5: min = 5	max = 10
+#6: min = 10	max = 15
+#7: min = 10	max = 15
+#8: min = 5	max = 30
+#9: min = 10	max = 20
+#10: min = 30	max = 30
+#11: min = 5	max = 45
+#12: min = 10	max = 90
+#13: min = 5	max = 15
+#14: min = 10	max = 10
+#15: min = 5	max = 30
+#16: min = 5	max = 30
+Avg min: 11, Avg max: 27
+Total span: 5-90
+
+#######	INTEREST IN ANALYSIS TAB	#######
+#0:		Didn't use it.
+#1:		Wasn't really worth it for that short amount of time, but over longer periods (one or two months) it would be interesting to see how the mood changed, depending on the seasons and personal circumstances
+#2:		Yes, I spent some time looking at it.
+#3:		Not very interesting, could not see a use in it.
+#4:		Not interesting, but it could be if used over longer periods of time and would give you interesting achievements.
+#5:		Missed it.
+#6:		Which panel? Sorry, wasn't aware of that.
+#7:		Yes! It gives an interesting overview of the day-to-day, as to what was important to me.
+#8:		Not really! Looked at it once or twice, but no again after that.
+#9:		I kindof forgot to check it at the end, but it was kind of a short period to evaluate anything. I would have been interested in looking at it over a longer period of time..
+#10:		Not really, sorry ;D
+#11:		Yes.
+#12:		Didn't use it.
+#13:		I must have missed that.
+#14:		Nah, it was mostly a direct reflection of my input. Didn't give me much insight. 
+Perhaps if you have data for a long period it could work.
+#15:		Was not aware of it, didn't look.
+#16:		Missed it.
+
+#######	INTERFACE ISSUES	#######
+#0:		Scrolling all the way down didn't work well.
+#1:		During longer usage times, the movement speed is too high, I got nauseous after a certain time. For longer usage times (in terms of weeks & months), a 'jump-to-date-function' would be useful
+#2:		Furniture design was not good. Has to get used to the interface.
+#3:		It would be nice if objects could snap to walls, floor, or each other.
+#4:		(As a UX designer) Don't show decimals when adjusting coordinates / rotation. It was also too sensitive.
+#5:		Would need a longer time to get a hang of it. The VR headset was uncomfortable (physically), thus not fun. Generally prone to nausea.
+#6:		Trigger should not be approval button. Videos sometimes rotated incorrectly when put into the room. Also, rather than saying X,Y,Z for rotation, give a visual/more easy to understand indicator.
+#7:		I always wanted to use the index finger to select objects (not the thumb). In general I could not remember which keys did what. Whenever I meant to go from scaling up to scaling down, I instead started turning the object. I'd find it much easier if one hand was for resizing, the other one for turning.
+#8:		Sometimes dizzy when 'walking' through a room. Sometimes a lot of time passed until a Foto was transferred from the app to the headset. Some of the images were flipped.
+#9:		I would have liked moving objects independently of my own position and when placing audio or videos elements for them to continue playing when I clicked off it
+#10:		The movement took some getting used (was too fast). Having the option to add text to media within VR would be nice. (authors note: this was possible until an OS update that introduced a bug to our textfields).
+#11:		The headaches afterwards.
+#12:		Starting the VR diary should be easier -> A big icon in the start menu. The name of the companion app should also just be 'Memory Mansion'. Everything should be more intuitive (getting to the app).
+#13:		I was untrained in using it, but after a couple of questions it worked.
+#14:		The left hand menu is too much out of sight
+#15:		Rotating should be easier. Snapping objects together. Media transfering could be simpler.
+#16:		Nothing specific, just had to get used to it.
+
+#######	COMPARISON TO CONVENTIONAL DIARIES	#######
+#0:		With a diary on paper it's easier to write down long texts, but limited in terms of visual options. With a diary on paper there tends to be a coherent, specific topic, the VR diary gives more of an overview of the day
+#1:		Multimedia in analog diaries requires higher effort and is impossible to this degree. But handwritten notes are more personal than plaintext.
+#2:		Same kind of burden due to time commitment. Didn't have to focus on language though and could let the memories speak for themselves, a quicker anchor to remember and a more colorful diary.
+#3:		VR version is much faster and easier to review. But it doesn't work as well for nuanced thought (especially when not using the mobile app). Also there isn't much to do when the day hasn't been eventful.
+#4:		These can't be compared. I use conventional diaries for writing long texts, that doesn't really work with the app.
+#5:		In a conventional diary it's not easily possible to place videos / pictures and I really enjoyed the multimodal aspect of it.
+#6:		A bit more laborious, since multiple devices have to be used, for instance if you want to add something in retrospect, you have to go back to the app and then back again to the headset to add a memo or image, etc.
+#7:		The 3D diary was more exciting.
+#8:		Can't even compare. This kind of VR Diary quickly develops its own dynamic. Being creative in the moment. Conventional diaries are more about listing things and events of the day and are much less creative.
+#9:		I'm using the Theme System Journal. This is really Retro-actively thinking about 
+the day instead of pro-actively creating media for the diary. I dont' naturally 
+create enough media to fill the rooms, so it doesn't suit me
+#10:		Conventional diaries are descriptive reflections of the day and events, the VR diary reflects the atmosphere, mood and momentary feelings
+
+#######	USED VR BEFORE?	#######
+#0:		false
+#1:		true	Games, simulations and biathlon movie
+#2:		false
+#3:		true	Beat Saber, other games + applications (Valve the Lab & co.), own studies
+#4:		true	Playing Beat Saber
+#5:		false
+#6:		false
+#7:		false
+#8:		false
+#9:		false
+#10:		true	An escape room with friends
+
+#######	USED VIDEOGAMES BEFORE?	#######
+#0:		Rarely	Console games, like Rocket League
+#1:		Rarely	Minecraft, Sims, mostly 'peaceful' games
+#2:		Rarely	Meyer's Weltreise
+#3:		Rarely	Ego-Shooters, Flight Simulator, Quizzes
+#4:		OccasionallyOrFrequently	ETS2, Control, Ravenfield
+#5:		OccasionallyOrFrequently	Angry Birds, Quiz Duell, Tetris, Puzzles
+#6:		OccasionallyOrFrequently	VR: Beat Saber, The Lab, Skyrim, in general: mostly RPGs, JRPGs, Fire Emblem, Minigames, PvP Browsergames
+#7:		Rarely
+#8:		OccasionallyOrFrequently	Counter Strike. Call of Duty.
+#9:		OccasionallyOrFrequently	Animal Crossing, Pokemon Sword (and others), The Witcher 3, Overcooked, Mario Kart
+#10:		OccasionallyOrFrequently	Simulations (like Sims), MMORPGs, League of Legends, Minecraft, Browsergames, Shooters
+#11:		Rarely	Fifa
+#12:		Rarely	Unravel
+#13:		Never
+#14:		OccasionallyOrFrequently	ETS2, Control, Ravenfield
+#15:		OccasionallyOrFrequently	Old games like age of empires, warcraft
+#16:		Never
+
+#######	USER NOTES	#######
+	################
+#0:		
+
+
+	################
+#1:		null
+
+
+	################
+#2:		
+
+
+	################
+#3:		She noticed that she only cared to build rooms with single beds, just for herself.
+
+She noticed that the only room she really cared for was the living room.
+
+
+	################
+#4:		Watched 3D videos
+Need to spend quite a bit of time with it to get enough out of it
+!Would have liked to edit old stuff
+Tried all types of media
+Didn't work: Didn't find all pictures
+Unexpected Behavious: Unused days don't show up at all
+Very interesting that you could spatially position media
+One day pictures in a half-circle, armchair in front
+Can do a lot with this
+For testing cool, but not longterm, just not my kind of thing
+	Maybe if you could shave off more seconds and actions
+Images as slideshow
+Lot of effort
+
+In the beginning putting on the headset was a bit tricky, but with practice it works.
+
+
+	################
+#5:		Improvement ideas:
+	- Improve graphics
+	- More gamification
+	- Give alternative to plain rooms (forests, space stations)
+		- Something more atmospheric, like in the "kind words" app
+	- Autofill rooms with memories (but keep tools to adjust)
+
+
+	################
+#6:		Might be curious to try it again when retired, has more time, has more ideas and is looking for a new hobby.
+
+
+	################
+#7:		arachnophobe thinks there should be a content warning for spider
+
+pain in the ass to put a video/large file via pc (both variants together would be best)
+
+
+	################
+#8:		IRIS NOTES
+
+index finger trigger to place objects
+
+
+	################
+#9:		
+
+
+	################
+#10:		Would use it long term if it wasn't for the motion sickness.
+
+
+	################
+#11:		sometimes a session was cut short due to headache
+
+
+	################
+#12:		
+
+
+	################
+#13:		would use it more as a hobby-/design room and not a diary. Just a room for herself.
+
+would have liked the opportunity to paint or have a paint gun, or creating your own models.
+
+Lost feeling for time in the app (this is a person who likes decorating in the physical world).
+
+
+	################
+#14:		
+
+
+	################
+#15:		rather it be efficient than having to move to the place. Scaling seems to move it slightly
+
+doesn't feel well moving around with joysticks.
+
+left handed menu too much out of view
+
+wrist-flick?
+
+
+
+
+	################
+#16:		ideas for improvement:
+	- Paint in the room
+	- Minigames
+	- Make your own furniture
+	- Scenarios like "outside", "nice weather", "library" or "bar"
+
+
+	################
+#17:		had a lot of fun just messing around in the simulation, changing colors, putting objects, especially animals
+
+Would prefer it if the headset could just pull data from the smartphone rather than having to transfer it manually.
+
+Would generally like to use something like this, but maybe on a weekly rather than daily basis, since not much is currently happening (due to COVID).
