@@ -7,6 +7,7 @@ This thesis project was a Virtual Reality Diary that provided users with a creat
 >**results.txt** -> provides their experience results and quantative findings of questionnaires and usage data analysis.
 >
 >**thesis.pdf** -> Master thesis "**Creative Memory Arrangement in Virtual Reality: Building a VR diary**"
+>
 >**FAQ page** -> https://therdavid.github.io/Memory-Mansion-VR-Landing-Site/
 
 - Engine: Unity3D / C#
